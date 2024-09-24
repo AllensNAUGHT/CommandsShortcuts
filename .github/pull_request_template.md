@@ -1,13 +1,32 @@
-### Summary 
-_Provide an overview_
-### Details
-_add more context to describe the changes_
+# Raccourcis cheatsheet-terminal
 
-### References 
-[Example](www.google.com)
+## Cette Pull Request propose :
+### Base 
+- [x] Commandes de base 
+- [x] Manip fichier Y
+- [x] Permission G
+- [ ] Script et Automatisation G
+- [x] Reseau B
+- [ ] Utilisateur B
+- [ ] Variables d'environnement F
+- [ ] Autres F
 
-### CHECKS 
 
-- [ ] Tested changes
-- [ ] StakeHolder Approuval 
+## Checklist avant soumission
+### Raccourcis 
 
+- [X] Navigation Y 
+- [ ] Historique des Commandes B
+- [X] Gestion des processsus 
+- [ ] Autre raccourcis utiles
+- [ ] Vim
+- [ ] Nano
+
+## DESIGN README
+
+- [ ] Présentation 
+- [ ] Menu deroulants
+- [x] Liens
+- [ ] Customisation 
+
+## DESIGN GENERAL ?
