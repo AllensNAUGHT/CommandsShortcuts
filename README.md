@@ -1,4 +1,4 @@
-# Cheat sheet pour le terminal
+# Cheat sheet pour le terminal Linux
 
 <p align="center"><img src="assets/img/mainImg2.jpg" width="500"/></p>
 
