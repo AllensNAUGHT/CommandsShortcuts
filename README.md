@@ -2,7 +2,7 @@
 
 <p align="center"><img src="assets/img/mainImg.jpg" width="500"/></p>
 
-## Sommaire
+# Sommaire
 
 <details>
 <summary><h3>Commandes</h3></summary>
@@ -33,13 +33,32 @@
 <ul>
 test
 </ul>
-
-
-
 </details>
 
-## Built with
+<details>
+<summary>
+<h3>Built with</h3>
+</summary>
+<ul>
+test
+</ul>
+</details>
 
-## Setup
+<details>
+<summary>
+<h3>Setup</h3>
+</summary>
+<ul>
+test
+</ul>
+</details>
 
-## Contributions
+<details>
+<summary>
+<h3>Setup</h3>
+</summary>
+<ul>
+Contributions
+
+</ul>
+</details>
