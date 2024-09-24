@@ -20,7 +20,7 @@
 # Sommaire
 
 <details>
-<summary><h3>Commandes</h3></summary>
+<summary><h3>⌨ Commandes</h3></summary>
 <ul>
         <li><a href="/doc/commands/base-commands.md">Commandes de base</a></li>
         <li><a href="/doc/commands/file-manipulation.md">Manipulation de fichiers</a></li>
@@ -32,7 +32,7 @@
 
 <details>
 <summary>
-<h3>Raccourcis</h3>
+<h3>⏳ Raccourcis</h3>
 </summary>
 <ul>
         <li><a href="/doc/hotkeys/navigation.md">Navigation</a></li>
@@ -77,7 +77,7 @@ Ce projet a été construit avec les technologies suivantes :
 
 <details>
 <summary>
-<h3>Setup</h3>
+<h3>▶️ Setup</h3>
 </summary>
 <ul>
 Suivez ces étapes pour configurer le projet localement :
