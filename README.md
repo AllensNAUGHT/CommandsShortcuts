@@ -62,7 +62,7 @@ Ce projet est open-source et peut être modifié ou amélioré par la communaut�
 
 <details>
 <summary>
-<h3>Built with</h3>
+⚙️<h3>Built with</h3>
 </summary>
 <ul>
 Ce projet a été construit avec les technologies suivantes :
