@@ -98,7 +98,7 @@ Suivez ces étapes pour configurer le projet localement :
 
 <details>
 <summary>
-<h3>👨‍👨‍👦‍👦🏋️‍♂️ Contributions 🏋️‍♀️</h3>
+<h3>👨‍👨‍👦‍👦 Contributions </h3>
 </summary>
 <ul>
 Merci à toutes les personnes qui ont contribué à ce projet !
