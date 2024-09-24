@@ -2,14 +2,12 @@
 
 <p align="center"><img src="assets/img/mainImg2.jpg" width="500"/></p>
 
+<div align="center">
 ![GitHub repo size](https://img.shields.io/github/repo-size/alf-Meodel/CommandsShortcuts)
 ![GitHub contributors](https://img.shields.io/github/contributors/alf-Meodel/CommandsShortcuts)
 ![GitHub stars](https://img.shields.io/github/stars/alf-Meodel/CommandsShortcuts?style=social)
 ![License](https://img.shields.io/github/license/alf-Meodel/CommandsShortcuts)
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/1234567/demo.gif" width="500">
-</p>
+</div>
 
 
 
