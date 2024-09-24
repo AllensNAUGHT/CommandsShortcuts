@@ -1,5 +1,5 @@
 # Cheat sheet pour le terminal
-<p align="center"><img src ="assets/img/mainImage.webp" width="400"/></p>
+<p align="center"><img src ="assets/img/mainImg.jpg"/></p>
 ## Sommaire
 
 - ### Commandes
