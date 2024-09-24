@@ -85,16 +85,20 @@ Ce projet a été construit avec les technologies suivantes :
 Suivez ces étapes pour configurer le projet localement :
 
 **Cloner le dépôt** :
--   #### git clone https://github.com/alf-Meodel/CommandsShortcuts.git
--   #### cd CommandsShortcuts
--   #### git checkout develop
+   #### git clone https://github.com/alf-Meodel/CommandsShortcuts.git
+   **Accéder au depot** :
+   #### cd CommandsShortcuts
+   **Basculer sur develop** :
+   #### git checkout develop
+
+ **Puis go faire un pull request, nous intégrerons votre pull request dans les meilleurs délais** 📨
 
 </ul>
 </details>
 
 <details>
 <summary>
-<h3>🏋️‍♂️ Contributions 🏋️‍♀️</h3>
+<h3>👨‍👨‍👦‍👦🏋️‍♂️ Contributions 🏋️‍♀️</h3>
 </summary>
 <ul>
 Merci à toutes les personnes qui ont contribué à ce projet !
