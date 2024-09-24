@@ -48,12 +48,12 @@
 <ul>
 
 Ce projet est une **cheat sheet interactive** pour le terminal, permettant aux utilisateurs de naviguer facilement à travers des commandes essentielles et des raccourcis pour gérer efficacement leur environnement de développement. 
-Le projet a été conçu pour les développeurs et administrateurs système qui veulent une référence rapide aux commandes souvent utilisées, tout en gardant une interface simple et intuitive.
+Le projet a été conçu pour les développeurs CDA et autres utilisateurs de linux qui veulent une référence rapide aux commandes souvent utilisées, tout en gardant une interface simple et intuitive.
 
 Fonctionnalités principales :
 - Menu déroulant pour les différentes sections de commandes.
 - Liens directs vers des documents détaillant chaque catégorie de commandes et raccourcis.
-- Structure modulaire pour permettre l’ajout de nouvelles sections.
+- Structure modulaire basé sur un template pour permettre l’ajout de nouvelles sections.
 
 Ce projet est open-source et peut être modifié ou amélioré par la communauté.
 
@@ -71,6 +71,8 @@ Ce projet a été construit avec les technologies suivantes :
 - **HTML/CSS** : Pour styliser les éléments comme les images et menus déroulants dans le README.
 - **Git** : Pour la gestion des versions du projet et des branches de développement.
 - **Git Flow** : Utilisé pour organiser le cycle de développement des features et des releases.
+- **Lazygit** : Une interface utilisateur simplifiée en ligne de commande pour Git, qui permet de visualiser, gérer et exécuter des commandes Git de manière intuitive. Il aide à simplifier les opérations courantes de Git, comme la gestion des branches, des commits, des stashs, et la résolution de conflits, le tout via une interface visuelle interactive.
+
 
 </ul>
 </details>
@@ -82,10 +84,10 @@ Ce projet a été construit avec les technologies suivantes :
 <ul>
 Suivez ces étapes pour configurer le projet localement :
 
-1. **Cloner le dépôt** :
-   #### git clone https://github.com/alf-Meodel/CommandsShortcuts.git
-   #### cd CommandsShortcuts
-   #### git checkout develop
+**Cloner le dépôt** :
+-   #### git clone https://github.com/alf-Meodel/CommandsShortcuts.git
+-   #### cd CommandsShortcuts
+-   #### git checkout develop
 
 </ul>
 </details>
