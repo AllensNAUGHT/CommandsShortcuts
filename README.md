@@ -1,6 +1,6 @@
 # Cheat sheet pour le terminal
 
-<p align="center"><img src="assets/img/mainImg.jpg" width="500"/></p>
+<p align="center"><img src="assets/img/mainImg2.jpg" width="500"/></p>
 
 # Sommaire
 
