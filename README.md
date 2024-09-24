@@ -51,8 +51,6 @@ Ce projet est open-source et peut être modifié ou amélioré par la communaut�
 <h3>Built with</h3>
 </summary>
 <ul>
-## Built with
-
 Ce projet a été construit avec les technologies suivantes :
 
 - **Markdown** : Utilisé pour la structure des documents et des liens.
@@ -68,8 +66,6 @@ Ce projet a été construit avec les technologies suivantes :
 <h3>Setup</h3>
 </summary>
 <ul>
-## Setup
-
 Suivez ces étapes pour configurer le projet localement :
 
 1. **Cloner le dépôt** :
@@ -82,10 +78,15 @@ Suivez ces étapes pour configurer le projet localement :
 
 <details>
 <summary>
-<h3>Setup</h3>
+<h3>Contributions</h3>
 </summary>
 <ul>
-Contributions
+Merci à toutes les personnes qui ont contribué à ce projet !
+
+- [Boris](https://github.com/nom-utilisateur1)
+- [Yohan](https://github.com/nom-utilisateur2)
+- [Gabriel](https://github.com/nom-utilisateur3)
+- [Franck](https://github.com/nom-utilisateur3)
 
 </ul>
 </details>
