@@ -3,12 +3,11 @@
 <p align="center"><img src="assets/img/mainImg2.jpg" width="500"/></p>
 
 <div align="center">
-![GitHub repo size](https://img.shields.io/github/repo-size/alf-Meodel/CommandsShortcuts)
-![GitHub contributors](https://img.shields.io/github/contributors/alf-Meodel/CommandsShortcuts)
-![GitHub stars](https://img.shields.io/github/stars/alf-Meodel/CommandsShortcuts?style=social)
-![License](https://img.shields.io/github/license/alf-Meodel/CommandsShortcuts)
+  <img src="https://img.shields.io/github/repo-size/alf-Meodel/CommandsShortcuts" alt="GitHub repo size" />
+  <img src="https://img.shields.io/github/contributors/alf-Meodel/CommandsShortcuts" alt="GitHub contributors" />
+  <img src="https://img.shields.io/github/stars/alf-Meodel/CommandsShortcuts?style=social" alt="GitHub stars" />
+  <img src="https://img.shields.io/github/license/alf-Meodel/CommandsShortcuts" alt="License" />
 </div>
-
 
 
 ## Features
