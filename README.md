@@ -31,7 +31,6 @@
 <h3>About the project</h3>
 </summary>
 <ul>
-## About the project
 
 Ce projet est une **cheat sheet interactive** pour le terminal, permettant aux utilisateurs de naviguer facilement à travers des commandes essentielles et des raccourcis pour gérer efficacement leur environnement de développement. 
 Le projet a été conçu pour les développeurs et administrateurs système qui veulent une référence rapide aux commandes souvent utilisées, tout en gardant une interface simple et intuitive.
