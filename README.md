@@ -10,6 +10,10 @@
       <ul>
         <li><a href="/doc/commands/base-commands.md">Commandes de base</a></li>
         <li><a href="/doc/commands/file-manipulation.md">Manipulation de fichiers</a></li>
+
+                <li><a href="/doc/commands/file-manipulation.md">Manipulation de fichiers</a></li>
+                        <li><a href="/doc/commands/file-manipulation.md">Manipulation de fichiers</a></li>
+                                <li><a href="/doc/commands/file-manipulation.md">Manipulation de fichiers</a></li>
       </ul>
     </details>
 
