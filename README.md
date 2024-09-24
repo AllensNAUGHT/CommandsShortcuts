@@ -1,6 +1,6 @@
 # Cheat sheet pour le terminal Linux
 
-<p align="center"><img src="assets/img/mainImg3.jpg" width="500"/></p>
+<p align="center"><img src="assets/img/mainImg3.png" width="500"/></p>
 
 <div align="center">
   <img src="https://img.shields.io/github/repo-size/alf-Meodel/CommandsShortcuts" alt="GitHub repo size" />
