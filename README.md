@@ -60,9 +60,9 @@ Ce projet est open-source et peut être modifié ou amélioré par la communaut�
 </ul>
 </details>
 
-<details>
-<summary>
-⚙️<h3>Built with</h3>
+⚙️<details>
+⚙️<summary>
+<h3>Built with</h3>
 </summary>
 <ul>
 Ce projet a été construit avec les technologies suivantes :
