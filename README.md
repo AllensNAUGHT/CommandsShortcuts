@@ -1,18 +1,31 @@
 # Cheat sheet pour le terminal
-<p align="center"><img src ="assets/img/mainImg.jpg" width="500"/></p>
+
+<p align="center"><img src="assets/img/mainImg.jpg" width="500"/></p>
+
 ## Sommaire
 
 - ### Commandes
-    * [Commandes de base](/doc/commands/base-commands.md)
-    * [Manipulation de fichiers](/doc/commands/file-manipulation.md)
+    <details>
+      <summary>Voir les commandes</summary>
+      <ul>
+        <li><a href="/doc/commands/base-commands.md">Commandes de base</a></li>
+        <li><a href="/doc/commands/file-manipulation.md">Manipulation de fichiers</a></li>
+      </ul>
+    </details>
+
 - ### Raccourcis
-    * [Navigation](/doc/hotkeys/navigation.md)
-    * [Gestion des processus](/doc/hotkeys/process-management.md)
+    <details>
+      <summary>Voir les raccourcis</summary>
+      <ul>
+        <li><a href="/doc/hotkeys/navigation.md">Navigation</a></li>
+        <li><a href="/doc/hotkeys/process-management.md">Gestion des processus</a></li>
+      </ul>
+    </details>
 
-## About the project 
+## About the project
 
-## Built with 
+## Built with
 
-## Setup 
+## Setup
 
-## Contributions 
+## Contributions
