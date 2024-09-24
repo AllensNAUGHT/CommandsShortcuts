@@ -4,9 +4,8 @@
 
 ## Sommaire
 
-- ### Commandes
     <details>
-      <summary>Voir les commandes</summary>
+      <summary><h3>Commandes</h3></summary>
       <ul>
         <li><a href="/doc/commands/base-commands.md">Commandes de base</a></li>
         <li><a href="/doc/commands/file-manipulation.md">Manipulation de fichiers</a></li>
@@ -16,9 +15,11 @@
       </ul>
     </details>
 
-- ### Raccourcis
+
     <details>
-      <summary>Voir les raccourcis</summary>
+      <summary>
+      <h3>Raccourcis</h3>
+      </summary>
       <ul>
         <li><a href="/doc/hotkeys/navigation.md">Navigation</a></li>
         <li><a href="/doc/hotkeys/process-management.md">Gestion des processus</a></li>
