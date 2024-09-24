@@ -8,14 +8,6 @@
 ![License](https://img.shields.io/github/license/alf-Meodel/CommandsShortcuts)
 
 <p align="center">
-  <img src="assets/img/demo.gif" width="600" alt="Project Demo">
-</p>
-
-<p align="center">
-  <img src="assets/img/banner.png" alt="Project Banner" width="800">
-</p>
-
-<p align="center">
   <img src="https://user-images.githubusercontent.com/1234567/demo.gif" width="500">
 </p>
 
