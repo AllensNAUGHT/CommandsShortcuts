@@ -25,7 +25,17 @@
       </ul>
     </details>
 
+<details>
+<summary>
 ## About the project
+</summary>
+<ul>
+test
+</ul>
+
+
+
+</details>
 
 ## Built with
 
