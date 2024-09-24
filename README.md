@@ -27,7 +27,7 @@
 
 <details>
 <summary>
-<h2>About the project</h2>
+<h3>About the project</h3>
 </summary>
 <ul>
 test
